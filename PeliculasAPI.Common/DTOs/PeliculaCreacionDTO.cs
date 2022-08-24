@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using PeliculasAPI.Common.Helpers;
 using PeliculasAPI.Common.Validaciones;
 using System.Collections.Generic;
 
